@@ -8,6 +8,6 @@
 
 4- 127.0.0.1:8000/en/login || Email:super_admin@app.com | Password: 123123123
 
-5- 127.0.0.1:8000/en/myStore/products/create
+5- 127.0.0.1:8000/en/myStore/products/create URL create product page
 
 6- down page code jquery and url plugin path Public folder /plugin/image-merge/ css - js
